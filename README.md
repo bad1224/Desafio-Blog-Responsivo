@@ -1,5 +1,5 @@
 
-# Desafio: Desenvolvendo um Blog Responsivo 📱💻   link netlify : https://heartfelt-praline-f9cc2c.netlify.app/
+### Desafio: Desenvolvendo um Blog Responsivo 📱💻   link netlify : https://heartfelt-praline-f9cc2c.netlify.app/
 
 Este projeto consistiu no desafio de transformar um layout de blog em uma experiência completamente responsiva. O objetivo principal foi garantir a integridade visual e funcionalidade em qualquer dispositivo, desde smartphones e tablets até monitores ultrawide.
 
